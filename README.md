@@ -1,6 +1,6 @@
 # Artrie
 
-<img src= "https://github.com/Suryasharma04/Artrie/assets/70257997/564943c2-9a8e-4b2d-accb-fb25004323c9" width="200" height="200" />
+<img src= "https://github.com/Suryasharma04/Artrie/assets/70257997/564943c2-9a8e-4b2d-accb-fb25004323c9" width="200" height="200" align = "center"/>
 
 `Artrie` is a mobile application designed to facilitate the comprehension of landscape architecture and Art History courses through the utilization of Augmented Reality. Developed using Xcode and Swift programming language, it is currently compatible with iOS devices. This project was funded and completed as part of the Summer Scholars program, under the guidance of my academic advisor, Professor John Barr.
 
