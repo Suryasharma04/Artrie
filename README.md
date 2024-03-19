@@ -7,10 +7,10 @@ Any mobile application is a work in progress, there’s always room for improvem
 
 This is the link for the System Architecture of the App: https://drive.google.com/file/d/1lZHGPX9QWclyjllfGvnDf9hNm3OBV3uU/view?usp=sharing
 
-![IMG_7246](https://github.com/Suryasharma04/Artrie/assets/70257997/998aaa99-c137-48ae-bc6d-59121f54c32c)
-![IMG_7244](https://github.com/Suryasharma04/Artrie/assets/70257997/36693d96-6d52-46d0-ba02-936ebc1428b6)
-![IMG_7241](https://github.com/Suryasharma04/Artrie/assets/70257997/3c03385f-e56d-43f6-848e-aa7795712059)
-![IMG_7240](https://github.com/Suryasharma04/Artrie/assets/70257997/7068ae2c-8a13-4a2c-8931-356b94345c87)
-![IMG_7239](https://github.com/Suryasharma04/Artrie/assets/70257997/3db1ab01-8e91-4831-8ea7-69b1c162d962)
-![IMG_7238](https://github.com/Suryasharma04/Artrie/assets/70257997/780aa178-4adb-4914-8d82-27acb2d4c6cc)
-![IMG_7237](https://github.com/Suryasharma04/Artrie/assets/70257997/8a95c1e2-998b-4b0e-bab7-a8de6bafe167)
+![IMG_7246](https://github.com/Suryasharma04/Artrie/assets/70257997/998aaa99-c137-48ae-bc6d-59121f54c32c | width=100)
+![IMG_7244](https://github.com/Suryasharma04/Artrie/assets/70257997/36693d96-6d52-46d0-ba02-936ebc1428b6 | width=100)
+![IMG_7241](https://github.com/Suryasharma04/Artrie/assets/70257997/3c03385f-e56d-43f6-848e-aa7795712059 | width=100)
+![IMG_7240](https://github.com/Suryasharma04/Artrie/assets/70257997/7068ae2c-8a13-4a2c-8931-356b94345c87 | width=100)
+![IMG_7239](https://github.com/Suryasharma04/Artrie/assets/70257997/3db1ab01-8e91-4831-8ea7-69b1c162d962 | width=100)
+![IMG_7238](https://github.com/Suryasharma04/Artrie/assets/70257997/780aa178-4adb-4914-8d82-27acb2d4c6cc | width=100)
+![IMG_7237](https://github.com/Suryasharma04/Artrie/assets/70257997/8a95c1e2-998b-4b0e-bab7-a8de6bafe167 | width=100)
