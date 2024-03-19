@@ -1,8 +1,6 @@
 # Artrie
 
-<img src= "https://github.com/Suryasharma04/Artrie/assets/70257997/564943c2-9a8e-4b2d-accb-fb25004323c9" width="200" height="200" align = "center"/>
-
-`Artrie` is a mobile application designed to facilitate the comprehension of landscape architecture and Art History courses through the utilization of Augmented Reality. Developed using Xcode and Swift programming language, it is currently compatible with iOS devices. This project was funded and completed as part of the Summer Scholars program, under the guidance of my academic advisor, Professor John Barr.
+<img src= "https://github.com/Suryasharma04/Artrie/assets/70257997/564943c2-9a8e-4b2d-accb-fb25004323c9" width="100" height="100"/>     `Artrie` is a mobile application designed to facilitate the comprehension of landscape architecture and Art History courses through the utilization of Augmented Reality. Developed using Xcode and Swift programming language, it is currently compatible with iOS devices. This project was funded and completed as part of the Summer Scholars program, under the guidance of my academic advisor, Professor John Barr.
 
 
 Any mobile application is a work in progress, there’s always room for improvement. The improvements include the creation of more 3D models to give the user more options, the addition of databases to store the information, and APIs for the customization of questions. Also, making this app open to Android users. In the near future, we plan to enable the user to move to a certain location on the map where they can place the 3D object. The user can take the quiz based on what they learn and review their performance. We hope to make this mobile application generalized for other subjects in Education such as Chemistry, Physics, Geography, etc; to understand the abstract and concrete ideas easily.​
